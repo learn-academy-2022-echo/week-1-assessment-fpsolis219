@@ -38,7 +38,7 @@ Researched answer: the process of executing code over and over again until it me
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-Your answer: 
+Your answer: pair programmer requires an observer to guide, think of ideas and suggest things to the driver whereas the driver is executing and building code.
 
 Researched answer: proper pair programming requires a observer and a driver. a observer analyzes what to do in and suggest improvements or suggestions whereas the driver takes the wheel of initiating code and seeks guidance from the observer when needed.
 
